@@ -253,3 +253,12 @@
 .breadcrumb {
   background-color: transparent;
 }
+
+:focus {
+  outline: none !important;
+  
+}
+
+nav {
+    background-color: #1f5ea1 !important;
+}
