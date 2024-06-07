@@ -250,4 +250,6 @@
     }
   }
 
-
+.breadcrumb {
+  background-color: transparent;
+}

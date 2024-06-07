@@ -16,14 +16,16 @@
 
         <link href="https://fonts.googleapis.com/css2?family=Montserrat:wght@500;600;700&family=Open+Sans&display=swap" rel="stylesheet">
                         
-        <link href="css/bootstrap.min.css" rel="stylesheet">
+        <!-- <link href="/css/bootstrap.min.css" rel="stylesheet"> -->
 
+        
         <link href="css/bootstrap-icons.css" rel="stylesheet">
-
-        <link href="css/templatemo-topic-listing.css" rel="stylesheet">
-        <link rel="stylesheet" href="css/css.css">  
         <link rel="stylesheet" href="/css/libs/font-awesome.css">
-        <!-- <link rel="stylesheet" href="/css/libs/bootstrap.min.css"> -->
+        <link rel="stylesheet" href="/css/libs/bootstrap.min.css">
+        
+        <link href="css/templatemo-topic-listing.css" rel="stylesheet">
+        
+        <link rel="stylesheet" href="/css/css.css">
       <link rel="preconnect" href="https://fonts.googleapis.com">
            
    
@@ -83,7 +85,7 @@
                        
                     </div>
                 </div>
-            </nav>z
+            </nav>
             
 
             <section class="hero-section d-flex justify-content-center align-items-center" id="section_1">
@@ -200,7 +202,7 @@
                 </div>
 
                 <div class="container-fluid">
-                    <div class="row">
+                    <div class="row justify-content-center">
                         <ul class="nav nav-tabs" id="myTab" role="tablist">
                             <li class="nav-item" role="presentation">
                                 <button class="nav-link active" id="design-tab" data-bs-toggle="tab" data-bs-target="#design-tab-pane" type="button" role="tab" aria-controls="design-tab-pane" aria-selected="true">Heizung</button>
@@ -625,7 +627,7 @@
 
             <section class="contact-section section-padding section-bg" id="section_5">
                 <div class="container">
-                    <div class="row">
+                    <div class="row justify-content-between">
 
                         <div class="col-lg-12 col-12 text-center">
                             <h2 class="mb-5">Kontaktieren Sie uns</h2>

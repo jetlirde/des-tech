@@ -16,17 +16,13 @@
 
         <link href="https://fonts.googleapis.com/css2?family=Montserrat:wght@500;600;700&family=Open+Sans&display=swap" rel="stylesheet">
                         
-        <link href="css/bootstrap.min.css" rel="stylesheet">
-
         <link href="css/bootstrap-icons.css" rel="stylesheet">
-
+        <link rel="stylesheet" href="/css/libs/font-awesome.css">
+        <link rel="stylesheet" href="/css/libs/bootstrap.min.css">
+        
         <link href="css/templatemo-topic-listing.css" rel="stylesheet">
-        <link rel="stylesheet" href="css/css.css">
-        <link rel="stylesheet" href="css/figura.scss">
-        <link rel="stylesheet" href="css/st.scss">
-        <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/4.7.0/css/font-awesome.min.css">
-       <link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/bootstrap@4.6.0/dist/css/bootstrap.min.css" integrity="sha384-B0vP5xmATw1+K9KRQjQERJvTumQW0nPEzvF6L/Z6nronJ3oUOFUFpCjEUQouq2+l" crossorigin="anonymous">
-      <link rel="preconnect" href="https://fonts.googleapis.com">
+        
+        <link rel="stylesheet" href="/css/css.css">>
      
     </head>
     
