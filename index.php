@@ -550,186 +550,110 @@
                     </div>
                 </div>
             </section>
+                <div class="main-container">
+    <div class="heading">
+        <h3 class="heading__title">Vom Start bis zum Ziel stehen wir Ihnen zur Seite 
+        Von der ersten Idee bis zur finalen Umsetzung sind wir Ihr verlässlicher Partner</h3>
+        <p class="heading__credits"><a class="heading__link" target="_blank" href="https://dribbble.com/sl"> Mit Fachkompetenz und Engagement begleiten wir Sie durch jeden Schritt Ihres Projekts, um sicherzustellen, dass Ihre Vision Wirklichkeit wird.
+</a></p>
+    </div>
+    <div class="cards">
+        <div class="card card-1">
+      
+        <div class="card__icon"><img src="images/assessment.png"width="100" height="70"  style="position:relative; top:-30px"></div>
+        
+        <p class="card__exit"></p>
+      
+        <h5 class="card__title">Bedarfsermittlung</h5>
+        <p>Wir führen eine gründliche Bedarfsermittlung für Ihre Liegenschaft durch, um eine langfristige und effiziente Lösung für Ihre Anlage zu finden. Natürlich berücksichtigen wir dabei auch Ihre individuellen Wünsche und Anforderungen, die bei unseren Ermittlungen eine wichtige Rolle spielen.</p>
+        <p class="card__apply">
+            <a class="card__link" href="#"></a>
+        </p>
+        </div>
+        <div class="card card-2">
+        <div class="card__icon"><img src="images/workflow.png"width="100" height="70"  style="position:relative; top:-30px"></div>
+        
+        <p class="card__exit"></p>
+      
+        <h5 class="card__title">Beratung, Projektleitung und Planung</h5>
+        <p>Für eine nachhaltige Anlage ist eine fundierte Beratung und durchdachte Planung unerlässlich. Überlassen Sie uns die Projektleitung, und vertrauen Sie darauf, dass wir das Projekt von Anfang bis Ende professionell begleiten und zu einem hochwertigen Ergebnis führen.</p>
+        <p class="card__apply">
+            <a class="card__link" href="#"></a>
+        </p>
+        </div>
+        <div class="card card-3">
+        <div class="card__icon"><img src="images/checklist1.png"width="100" height="70"  style="position:relative; top:-30px"></div>
+        
+        <p class="card__exit"></p>
+      
+        <h5 class="card__title">Neubau</h5>
+        <p>Wenn Sie einen Neubau planen und eine langjährige, nachhaltige und effiziente Anlage wünschen, sind Sie bei uns an der richtigen Stelle. Wir planen und realisieren für Sie eine hochwertige und moderne Gebäudetechnikanlage, die eine lange Lebensdauer garantiert.</p>
+        <p class="card__apply">
+            <a class="card__link" href="#"></a>
+        </p>
+        </div>
+        <div class="card card-4">
+        <div class="card__icon"><img src="images/sustainable-home.png"width="100" height="70"  style="position:relative; top:-30px"></div>
+        
+        <p class="card__exit"></p>
+      
+        <h5 class="card__title">Sanierung </h5>
+        <p>Bevor Sie sich für eine Sanierung Ihres Badezimmers, Ihrer Heizungsanlage oder Lüftungsanlage entscheiden, bieten wir Ihnen eine umfassende Vorabklärung an, einschliesslich potenzieller Fördergelder. Auf diese Weise können Sie sicher sein, dass Ihre Sanierung reibungslos verläuft und Sie alle Vorteile nutzen können.</p>
+        <p class="card__apply">
+            <a class="card__link" href="#"></a>
+        </p>
+        </div>
+        
 
-
-            <section class="timeline-section section-padding" id="section_3">
-                <div class="section-overlay"></div>
-
-                <div class="container">
-                    <div class="row">
-
-                        <div class="col-12 text-center">
-                            <h2 class="text-white mb-4">Wie arbeiten wir?</h1>
-                        </div>
-
-                        <div class="col-lg-10 col-12 mx-auto">
-                            <div class="timeline-container">
-                                <ul class="vertical-scrollable-timeline" id="vertical-scrollable-timeline">
-                                    <div class="list-progress">
-                                        <div class="inner"></div>
-                                    </div>
-
-                                    <li>
-                                        <h4 class="text-white mb-3">Bedarfsermittlung</h4>
-
-                                        <p class="text-white">Wir führen eine gründliche Bedarfsermittlung für Ihre Liegenschaft durch, um eine langfristige und effiziente Lösung für Ihre Anlage zu finden. Natürlich berücksichtigen wir dabei auch Ihre individuellen Wünsche und Anforderungen, die bei unseren Ermittlungen eine wichtige Rolle spielen.</p>
-
-                                        <div class="icon-holder">
-                                          <i class="bi-search"></i>
-                                        </div>
-                                    </li>
-                                    
-                                    <li>
-                                        <h4 class="text-white mb-3">Beratung, Projektleitung und Planung</h4>
-
-                                        <p class="text-white">Für eine nachhaltige Anlage ist eine fundierte Beratung und durchdachte Planung unerlässlich. Überlassen Sie uns die Projektleitung, und vertrauen Sie darauf, dass wir das Projekt von Anfang bis Ende professionell begleiten und zu einem hochwertigen Ergebnis führen.</p>
-
-                                        <div class="icon-holder">
-                                          <i class="bi-bookmark"></i>
-                                        </div>
-                                    </li>
-
-                                    <li>
-                                        <h4 class="text-white mb-3">Neubau </h4>
-
-                                        <p class="text-white">Wenn Sie einen Neubau planen und eine langjährige, nachhaltige und effiziente Anlage wünschen, sind Sie bei uns an der richtigen Stelle. Wir planen und realisieren für Sie eine hochwertige und moderne Gebäudetechnikanlage, die eine lange Lebensdauer garantiert.</p>
-
-                                        <div class="icon-holder">
-                                          <i class="bi-book"></i>
-                                        </div>
-                                    </li>
-                                    <li>
-                                        <h4 class="text-white mb-3">Sanierung </h4>
-
-                                        <p class="text-white">Bevor Sie sich für eine Sanierung Ihres Badezimmers, Ihrer Heizungsanlage oder Lüftungsanlage entscheiden, bieten wir Ihnen eine umfassende Vorabklärung an, einschliesslich potenzieller Fördergelder. Auf diese Weise können Sie sicher sein, dass Ihre Sanierung reibungslos verläuft und Sie alle Vorteile nutzen können.</p>
-
-                                        <div class="icon-holder">
-                                          <i class="bi-book"></i>
-                                        </div>
-                                    </li>
-                                </ul>
-                            </div>
-                        </div>
-
-                        <div class="col-12 text-center mt-5">
-                            <p class="text-white">
-                                Möchten Sie mehr erfahren?
-                                <a href="#" class="btn custom-btn custom-border-btn ms-3">Klicken Sie auf die Schaltfläche</a>
-                            </p>
-                        </div>
-                    </div>
-                </div>
-            </section>
 
 
             
 
 
-            <section class="contact-section section-padding section-bg" id="section_5">
-                <div class="container">
-                    <div class="row justify-content-between">
+ </main>
 
-                        <div class="col-lg-12 col-12 text-center">
-                            <h2 class="mb-5">Kontaktieren Sie uns</h2>
-                        </div>
-
-                        <div class="col-lg-5 col-12 mb-4 mb-lg-0">
-                            <iframe class="google_frame" src="https://www.google.com/maps/embed?pb=!1m14!1m8!1m3!1d10927.232173658917!2d7.6051157!3d46.7883867!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x478fb3bde5e6ba59%3A0xfdf679a1905e0778!2sDesTech%20GmbH!5e0!3m2!1sen!2s!4v1691584352465!5m2!1sen!2s" width="600" height="450" style="border:0;" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe>
-                        </div>
-
-                        <div class="col-lg-3 col-md-6 col-12 mb-3 mb-lg- mb-md-0 ms-auto">
-                            <h4 class="mb-3">Hauptgeschäftsstelle</h4>
-
-                            <p>Stockhornstrasse 11, 3627 Heimberg, Switzerland</p>
-
-                            <hr>
-
-                            <p class="d-flex align-items-center mb-1">
-                                <span class="me-2">Telefon</span>
-
-                                <a href="tel: 305-240-9671" class="site-footer-link">
-                                    +41 33 525 15 05
-                                </a>
-                            </p>
-
-                            <p class="d-flex align-items-center">
-                                <span class="me-2">Email</span>
-
-                                <a href="mailto:info@company.com" class="site-footer-link">
-                                    info@des-tech.ch
-                                </a>
-                            </p>
-                        </div>
-
+  
                         
+       <footer class="site-footer section-padding" id="kontakt"  style="margin: auto;" >
+                  
+                      <div class="container">
+                            <div class="row">
+                                <div class="col">
+                                <div class="col-sm ml-auto text-center">
+                                     <img src="images/png-05.png"   class="float-right" style="width:300px" alt="Logo">
+                                </div>
+                                </div>
+                                <div class="col">
+                                <h6 class="site-footer-title mb-3">Informationen</h6>
+                                   <a href="tel: 305-240-9671" class="site-footer-link">
+                                        +41 33 525 15 05
+                                   </a><br>
+                                   <a href="mailto:info@company.com" class="site-footer-link">
+                                      info@des-tech.ch
+                                   </a>
+                                </div>
+                                <div class="col">
+                                   <h4 class="mb-3">Hauptgeschäftsstelle</h4>
 
-                    </div>
-                </div>
-            </section>
-        </main>
+                                   <p>Stockhornstrasse 11, 3627 Heimberg, Switzerland</p>
+                                   <p class="copyright-text mt-lg-5 mt-4">Copyright © 2024 DesTech </p>
+                                </div>
+                                <div class="col">
+                                      <h4 class="mb-3">Sponsor bei:</h4>
+                                       <div class="column">
+                                          <img src="images/fcprishtina.png" alt="Snow" width="70" height="50">
+                                     </div>
+                                     <div class="column">
+                                          <img src="images/FC_Breitenrain.png" alt="Forest" width="70" height="50">
+                                      </div>
+                                      <div class="column">
+                                          <img src="images/fcheimberg.png" alt="Mountains" width="70" height="50">
+                              </div>   </div>
+     </footer>
 
-<footer class="site-footer section-padding" id="kontakt">
-            <div class="container">
-                <div class="row">
-
-                    <div class="col-lg-3 col-12 mb-4 pb-2">
-                        <a class="navbar-brand mb-2" href="/">
-                          
-                          <img src="images/destech.png"  width="150" height="50">
-                                  
-                        </a>
-                    </div>
-
-                    <div class="col-lg-3 col-md-4 col-6">
                      
-                        <ul class="site-footer-links">
-                            <li class="site-footer-link-item">
-                                <a href="#" class="site-footer-link">Home</a>
-                            </li>
-                            <li class="site-footer-link-item">
-                                <a href="#" class="site-footer-link">Dienstleistungen</a>
-                            </li>
+            
 
-                            <li class="site-footer-link-item">
-                                <a href="#" class="site-footer-link">Wie es funktioniert</a>
-                            </li>
-
-                            <li class="site-footer-link-item">
-                                <a href="#" class="site-footer-link">Häufig gestellte freagen(FAQ)</a>
-                            </li>
-
-                            <li class="site-footer-link-item">
-                                <a href="#" class="site-footer-link">Kontakt</a>
-                            </li>
-                        </ul>
-                    </div>
-
-                    <div class="col-lg-3 col-md-4 col-6 mb-4 mb-lg-0">
-                        <h6 class="site-footer-title mb-3">Informationen</h6>
-
-                        <p class="text-white d-flex mb-1">
-                            <a href="tel: 305-240-9671" class="site-footer-link">
-                                +41 33 525 15 05
-                            </a>
-                        </p>
-
-                        <p class="text-white d-flex">
-                            <a href="mailto:info@company.com" class="site-footer-link">
-                                info@des-tech.ch
-                            </a>
-                        </p>
-                    </div>
-
-           
-
-                        <p class="copyright-text mt-lg-5 mt-4">Copyright © 2024
-                       
-                        
-                    </div>
-
-                </div>
-            </div>
-        </footer>
 
 
         <!-- JAVASCRIPT FILES -->
@@ -738,6 +662,9 @@
         <script src="js/jquery.sticky.js"></script>
         <script src="js/click-scroll.js"></script>
         <script src="js/custom.js"></script>
+        <script src="https://code.jquery.com/jquery-3.5.1.slim.min.js"></script>
+        <script src="https://cdn.jsdelivr.net/npm/@popperjs/core@2.9.2/dist/umd/popper.min.js"></script>
+        <script src="https://stackpath.bootstrapcdn.com/bootstrap/4.5.2/js/bootstrap.min.js"></script>
 
     </body>
 </html>
