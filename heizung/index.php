@@ -74,7 +74,7 @@ https://templatemo.com/tm-590-topic-listing
 
                         </li>
                         <li class="nav-item">
-                            <a class="nav-link click-scroll" href="#kontakt">Kontakt</a>
+                            <a class="nav-link click-scroll" href="#kontakt1">Kontakt</a>
                         </li>
 
                        
@@ -204,73 +204,202 @@ https://templatemo.com/tm-590-topic-listing
                     <div class="row">
 
                         <div class="col-lg-12 col-12">
-                            <h3 class="mb-4">Was bieten wir Ihnen an:</h3>
+                            <h3 class="mb-4"style="text-align: center">Was bieten wir Ihnen an:</h3>
                         </div>
 
-                        <div class="col-lg-6 col-md-6 col-12 mt-3 mb-4 mb-lg-0">
-                            <div class="custom-block bg-white shadow-lg">
-                                <a href="topics-detail">
-                                    <div class="d-flex">
-                                        <div>
-                                            <h5 class="mb-2">Investment</h5>
+                  </div>
 
-                                            <p class="mb-0">Lorem Ipsum dolor sit amet consectetur</p>
+                        <div class="container">
+                    <div class="row">
+
+                        <div class="col-12">
+                            <div class="tab-content" id="myTabContent">
+                                <div class="tab-pane fade show active" id="design-tab-pane" role="tabpanel" aria-labelledby="design-tab" tabindex="0">
+                                    <div class="row">
+                                        <div class="col-lg-4 col-md-6 col-12 mb-4 mb-lg-0">
+                                            <div class="custom-block bg-white shadow-lg">
+                                                <a class="d-flex flex-column justify-content-between h-100" href="topics-detail">
+                                                    <div class="d-flex">
+                                                        <div>
+                                                            <h5 class="mb-2">Ausführung und Planung</h5>
+
+                                                            <p class="mb-0">Bei uns hat jede Anlage höchste Priorität. Wir übernehmen die Planung, Koordination und Kostenkalkulation, setzen Ihre Anliegen um und führen die Arbeiten anschliessend termingerecht aus.</p>
+                                                        </div>
+
+                                                       
+                                                    </div>
+
+                                                    <img src="images/topics/1.jpg" class="custom-block-image img-fluid" alt="">
+                                                </a>
+                                            </div>
                                         </div>
 
-                                      
-                                    </div>
+                                        <div class="col-lg-4 col-md-6 col-12 mb-4 mb-lg-0">
+                                            <div class="custom-block bg-white shadow-lg">
+                                                <a class="d-flex flex-column justify-content-between h-100" href="topics-detail">
+                                                    <div class="d-flex">
+                                                        <div>
+                                                            <h5 class="mb-2">Montage </h5>
 
-                                    <img src="images/topics/tok.jpeg" class="custom-block-image img-fluid" alt="">
-                                </a>
-                            </div>
-                        </div>
+                                                                <p class="mb-0">Starke und flexible Mitarbeiter sind auf der Baustelle unerlässlich. Unsere Monteure arbeiten eng mit dem technischen Büro zusammen, um als eingespieltes Team die höchste Qualität zu gewährleisten. </p>
+                                                               
+                                                        </div>
 
-                        <div class="col-lg-6 col-md-6 col-12 mt-lg-3">
-                            <div class="custom-block custom-block-overlay">
-                                <div class="d-flex flex-column h-100">
-                                    <img src="images/businesswoman-using-tablet-analysis.jpg" class="custom-block-image img-fluid" alt="">
+                                                        
+                                                    </div>
 
-                                    <div class="custom-block-overlay-text d-flex">
-                                        <div>
-                                            <h5 class="text-white mb-2">Finance</h5>
-
-                                            <p class="text-white">Lorem ipsum dolor, sit amet consectetur adipisicing elit. Sint animi necessitatibus aperiam repudiandae nam omnis</p>
-
-                                            <a href="topics-detail" class="btn custom-btn mt-2 mt-lg-3">Learn More</a>
+                                                    <img src="images/topics/45.jpg" class="custom-block-image img-fluid" alt="">
+                                                </a>
+                                            </div>
                                         </div>
 
+                                        <div class="col-lg-4 col-md-6 col-12">
+                                            <div class="custom-block bg-white shadow-lg">
+                                                <a class="d-flex flex-column justify-content-between h-100" href="topics-detail">
+                                                    <div class="d-flex">
+                                                        <div>
+                                                            <h5 class="mb-2">Wartung und Unterhalt 
+                                                            </h5> 
+                                                                <p class="mb-0">Durch regelmässige Wartung gewährleisten wir die einwandfreie Funktion und lange Lebensdauer Ihrer technischen Anlagen. Bei Störungen sind wir an 365 Tagen im Jahr für Sie erreichbar, auch an Sonn- und Feiertagen.
+                                                                </p>
+                                                        </div>
+
+                                                    
+                                                    </div>
+
+                                                    <img src="images/topics/56.jpg" class="custom-block-image img-fluid" alt="">
+                                                </a>
+                                            </div>
+                                        </div>
                                     </div>
-
-                                
-                                    <div class="social-share d-flex">
-                                        <p class="text-white me-4">Aktie:</p>
-
-                                        <ul class="social-icon">
-                                            <li class="social-icon-item">
-                                                <a href="#" class="social-icon-link bi-linkedin"></a>
-                                            </li>
-
-                                            <li class="social-icon-item">
-                                                <a href="#" class="social-icon-link bi-facebook"></a>
-                                            </li>
-
-                                            <li class="social-icon-item">
-                                                <a href="#" class="social-icon-link bi-instagram"></a>
-                                            </li>
-                                        </ul>
-
-                                        <a href="#" class="custom-icon bi-bookmark ms-auto"></a>
-                                    </div>
-
-                                        <a href="#" class="custom-icon bi-bookmark ms-auto"></a>
-                                    </div>
-
-                                    <div class="section-overlay"></div>
                                 </div>
-                            </div>
-                        </div>
 
-                    </div>
+                                <div class="tab-pane fade" id="marketing-tab-pane" role="tabpanel" aria-labelledby="marketing-tab" tabindex="0">
+                                    <div class="row">
+                                        <div class="row">
+                                            <div class="col-lg-4 col-md-6 col-12 mb-4 mb-lg-0">
+                                                <div class="custom-block bg-white shadow-lg">
+                                                    <a class="d-flex flex-column justify-content-between h-100" href="topics-detail">
+                                                        <div class="d-flex">
+                                                            <div>
+                                                                <h5 class="mb-2">Komfortlüftungz</h5>
+    
+                                                                <p class="mb-0">Die Komfortlüftung garantiert stets frische Luft in Innenräumen. Mit intelligenter Steuerung und individuellen Einstellungen schafft sie ein behagliches Raumklima für optimalen Wohn- und Arbeitskomfort.</p>
+                                                            </div>
+    
+                                                           
+                                                        </div>
+    
+                                                        <img src="images/topics/1.jpg" class="custom-block-image img-fluid" alt="">
+                                                    </a>
+                                                </div>
+                                            </div>
+    
+                                            <div class="col-lg-4 col-md-6 col-12 mb-4 mb-lg-0">
+                                                <div class="custom-block bg-white shadow-lg">
+                                                    <a class="d-flex flex-column justify-content-between h-100" href="topics-detail">
+                                                        <div class="d-flex">
+                                                            <div>
+                                                                 <h5 class="mb-2">Industrielle Lüftungsanlageng</h5>
+    
+                                                                 <p class="mb-0">Industrielle Lüftungsanlagen optimieren die Luftqualität in Arbeitshallen, Restaurants, usw. durch effizienten Luftaustausch. Sie schaffen ideale Arbeitsbedingungen und erfüllen zuverlässig gesetzliche Vorschriften.</p>
+                                                                    
+                                                            </div>
+    
+                                                            
+                                                        </div>
+    
+                                                        <img src="images/topics/45.jpg" class="custom-block-image img-fluid" alt="">
+                                                    </a>
+                                                </div>
+                                            </div>
+    
+                                            <div class="col-lg-4 col-md-6 col-12">
+                                                <div class="custom-block bg-white shadow-lg">
+                                                    <a class="d-flex flex-column justify-content-between h-100" href="topics-detail">
+                                                        <div class="d-flex">
+                                                            <div>
+                                                                <h5 class="mb-2">Individuelle Lüftungslösungen für Neu- und Umbautenu</h5>
+    
+                                                                    <p class="mb-0">Entdecken Sie maßgeschneiderte Lüftungslösungen für Neu- und Umbauten. Unsere individuellen Systeme garantieren optimale Luftqualität, nahtlos integriert in Ihr Projekt für höchsten Komfort und Energieeffizienz..</p>
+                                                                        </p>
+                                                            </div>
+    
+                                                        
+                                                        </div>
+    
+                                                        <img src="images/topics/56.jpg" class="custom-block-image img-fluid" alt="">
+                                                    </a>
+                                                </div>
+                                            </div>
+                                        </div>
+                                    </div>
+                                </div>
+
+                                <div class="tab-pane fade" id="sanitari-tab-pane" role="tabpanel" aria-labelledby="marketing-tab" tabindex="0">
+                                    <div class="row">
+                                        <div class="row">
+                                            <div class="col-lg-4 col-md-6 col-12 mb-4 mb-lg-0">
+                                                <div class="custom-block bg-white shadow-lg">
+                                                    <a class="d-flex flex-column justify-content-between h-100" href="topics-detail">
+                                                        <div class="d-flex">
+                                                            <div>
+                                                                <h5 class="mb-2">Neu- und Umbautenz</h5>
+    
+                                                                <p class="mb-0">Entdecken Sie moderne Sanitärlösungen für Neu- und Umbauten. Unsere effizienten und stilvollen Anlagen fügen sich harmonisch in Ihr Bauvorhaben ein.!</p>
+                                                            </div>
+    
+                                                           
+                                                        </div>
+    
+                                                        <img src="images/topics/1.jpg" class="custom-block-image img-fluid" alt="">
+                                                    </a>
+                                                </div>
+                                            </div>
+    
+                                            <div class="col-lg-4 col-md-6 col-12 mb-4 mb-lg-0">
+                                                <div class="custom-block bg-white shadow-lg">
+                                                    <a class="d-flex flex-column justify-content-between h-100" href="topics-detail">
+                                                        <div class="d-flex">
+                                                            <div>
+                                                                <h5 class="mb-2">Badsanierungg</h5>
+    
+                                                                <p class="mb-0">Verleihen Sie Ihrem Badezimmer neuen Glanz mit unserer Badsanierung. Modernes Design, höchste Funktionalität und individuelle Anpassung für Ihr Wohlbefinden.</p>
+                                                                        
+                                                            </div>
+    
+                                                            
+                                                        </div>
+    
+                                                        <img src="images/topics/45.jpg" class="custom-block-image img-fluid" alt="">
+                                                    </a>
+                                                </div>
+                                            </div>
+    
+                                            <div class="col-lg-4 col-md-6 col-12">
+                                                <div class="custom-block bg-white shadow-lg">
+                                                    <a class="d-flex flex-column justify-content-between h-100" href="topics-detail">
+                                                        <div class="d-flex">
+                                                            <div>
+                                                                <h5 class="mb-2">Planung und Beratung</h5>
+    
+                                                                    <p class="mb-0">Entdecken Sie erstklassige Planung und Beratung für Ihr Projekt. Unser erfahrenes Team steht Ihnen zur Seite, um massgeschneiderte Lösungen zu entwickeln.</p>
+                                                                        
+                                                            </div>
+    
+                                                        
+                                                        </div>
+    
+                                                        <img src="images/topics/56.jpg" class="custom-block-image img-fluid" alt="">
+                                                    </a>
+                                                </div>
+                                            </div>
+                                        </div>
+                                    </div>
+                                </div>
+
+                            
+                            </div>
                 </div>
             </section>
         </main>
@@ -307,7 +436,7 @@ https://templatemo.com/tm-590-topic-listing
                 <h2 class="footer-menu-name"> Informationen</h2>
                 <ul id="menu-quick-links" class="footer-menu-list">
                 <li class="menu-item menu-item-type-custom menu-item-object-custom">
-                    <a target="_blank" rel="noopener noreferrer" href="tel:+41335251505">tel:+41335251505</a>
+                    <a target="_blank" rel="noopener noreferrer" href="tel:+41335251505">tel:+41 33 438 82 82 </a>
                 </li>
                 <li class="menu-item menu-item-type-custom menu-item-object-custom">
                     <a target="_blank" rel="noopener noreferrer" href=" info@des-tech.ch"> info@des-tech.ch</a>
@@ -323,7 +452,7 @@ https://templatemo.com/tm-590-topic-listing
             </div>
             <div class="footer-call-to-action">
                 <h2 class="footer-call-to-action-title"> SIE RUFEN UNS AN</h2>
-                <p class="footer-call-to-action-link-wrapper"> <a class="footer-call-to-action-link" href="tel:0124-64XXXX" target="_self"> +41335251505 </a></p>
+                <p class="footer-call-to-action-link-wrapper"> <a class="footer-call-to-action-link" href="tel:0124-64XXXX" target="_self"> +41 33 438 82 82  </a></p>
             </div>
             </div>
             <div class="footer-social-links"> 

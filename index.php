@@ -82,7 +82,7 @@
                                 <a href="topics-detail">
                                     <div class="d-flex">
                                         <div>
-                                            <h5 class="mb-2">News</h5>
+                                           
                                             <p class="mb-0">
                                                 <h5 class="mb-2">News Freie Stelles</h5> 
                                                 <a href="pdf.pdf" style="color:#5818cd;">Sanitärinstallateur*in – Download "</a>
@@ -111,7 +111,7 @@
                                                 Gerne möchten wir Sie als junges, motiviertes und gut ausgebildetes Team von unserer Vision überzeugen.
                                                 </p>
 
-                                            <a href="topics-detail" class="btn custom-btn mt-2 mt-lg-3">Mehr erfahren</a>
+                                            <a href="uberuns" class="btn custom-btn mt-2 mt-lg-3">Mehr erfahren</a>
                                         </div>
 
                                        
@@ -122,15 +122,15 @@
 
                                         <ul class="social-icon">
                                             <li class="social-icon-item">
-                                                <a href="#" class="social-icon-link bi-linkedin"></a>
+                                                <a href="https://www.linkedin.com/in/fatlind-destani-7002431a0/" class="social-icon-link bi-linkedin"></a>
                                             </li>
 
                                             <li class="social-icon-item">
-                                                <a href="#" class="social-icon-link bi-facebook"></a>
+                                                <a href="https://www.facebook.com/people/DesTech-GmbH/100069865483095/" class="social-icon-link bi-facebook"></a>
                                             </li>
 
                                             <li class="social-icon-item">
-                                                <a href="#" class="social-icon-link bi-instagram"></a>
+                                                <a href="https://www.instagram.com/destech.gmbh/" class="social-icon-link bi-instagram"></a>
                                             </li>
                                         </ul>
 
@@ -171,9 +171,11 @@
                             <li class="nav-item" role="presentation">
                                 <button class="nav-link" id="marketing-tab" data-bs-toggle="tab" data-bs-target="#sanitari-tab-pane" type="button" role="tab" aria-controls="marketing-tab-pane" aria-selected="false">Sanitär</button>
                             </li>
-
                             <li class="nav-item" role="presentation">
+                                <button class="nav-link" id="marketing-tab" data-bs-toggle="tab" data-bs-target="#planung-tab-pane" type="button" role="tab" aria-controls="marketing-tab-pane" aria-selected="false">Planung</button>
                             </li>
+
+                           
 
                             
                         </ul>
@@ -371,6 +373,68 @@
                                     </div>
                                 </div>
 
+                                <div class="tab-pane fade" id="planung-tab-pane" role="tabpanel" aria-labelledby="marketing-tab" tabindex="0">
+                                    <div class="row">
+                                        <div class="row">
+                                            <div class="col-lg-4 col-md-6 col-12 mb-4 mb-lg-0">
+                                                <div class="custom-block bg-white shadow-lg">
+                                                    <a class="d-flex flex-column justify-content-between h-100" href="topics-detail">
+                                                        <div class="d-flex">
+                                                            <div>
+                                                                <h5 class="mb-2">Energieberatung und Nachweise</h5>
+    
+                                                                <p class="mb-0">Energieberatungen und Nachweise für eine nachhaltige Energiezukunft. Mit optimalen Lösungen optimieren wir Ihren Energieeinsatz.</p>
+                                                            </div>
+    
+                                                           
+                                                        </div>
+    
+                                                        <img src="images/topics/1.jpg" class="custom-block-image img-fluid" alt="">
+                                                    </a>
+                                                </div>
+                                            </div>
+    
+                                            <div class="col-lg-4 col-md-6 col-12 mb-4 mb-lg-0">
+                                                <div class="custom-block bg-white shadow-lg">
+                                                    <a class="d-flex flex-column justify-content-between h-100" href="topics-detail">
+                                                        <div class="d-flex">
+                                                            <div>
+                                                                <h5 class="mb-2">Baugesuche</h5>
+    
+                                                                <p class="mb-0">Wir übernehmen die Erstellung und Einreichung der benötigten Unterlagen, um sicherzustellen, dass Ihr Bauprojekt den gesetzlichen Anforderungen entspricht.</p>
+                                                                        
+                                                            </div>
+    
+                                                            
+                                                        </div>
+    
+                                                        <img src="images/topics/45.jpg" class="custom-block-image img-fluid" alt="">
+                                                    </a>
+                                                </div>
+                                            </div>
+    
+                                            <div class="col-lg-4 col-md-6 col-12">
+                                                <div class="custom-block bg-white shadow-lg">
+                                                    <a class="d-flex flex-column justify-content-between h-100" href="topics-detail">
+                                                        <div class="d-flex">
+                                                            <div>
+                                                                <h5 class="mb-2">Planung von A-Z</h5>
+    
+                                                                    <p class="mb-0">Gesamte Planung der Gebäudetechnik von A bis Z. Unser kompetentes Team entwickelt individuelle Konzepte und koordiniert alle technischen Aspekte für eine maximale Effizienz und Funktionalität.</p>
+                                                                        
+                                                            </div>
+    
+                                                        
+                                                        </div>
+    
+                                                        <img src="images/topics/56.jpg" class="custom-block-image img-fluid" alt="">
+                                                    </a>
+                                                </div>
+                                            </div>
+                                        </div>
+                                    </div>
+                                </div>
+
                                 <div class="tab-pane fade" id="finance-tab-pane" role="tabpanel" aria-labelledby="finance-tab" tabindex="0">   <div class="row">
                                         <div class="col-lg-6 col-md-6 col-12 mb-4 mb-lg-0">
                                             <div class="custom-block bg-white shadow-lg">
@@ -511,13 +575,13 @@
         <div class="heading">
             <h3 class="heading__title">Vom Start bis zum Ziel stehen wir Ihnen zur Seite 
             Von der ersten Idee bis zur finalen Umsetzung sind wir Ihr verlässlicher Partner</h3>
-            <p class="heading__credits"><a class="heading__link" target="_blank" href="https://dribbble.com/sl"> Mit Fachkompetenz und Engagement begleiten wir Sie durch jeden Schritt Ihres Projekts, um sicherzustellen, dass Ihre Vision Wirklichkeit wird.
+            <p class="heading__credits"><a class="heading__link" target="_blank" > Mit Fachkompetenz und Engagement begleiten wir Sie durch jeden Schritt Ihres Projekts, um sicherzustellen, dass Ihre Vision Wirklichkeit wird.
             </p>
         </div>
         <div class="cards">
             <div class="card card-1">
         
-            <div class="card__icon"><img src="images/assessment.png"width="100" height="70"  style="position:relative; top:-30px"></div>
+            <div class="card__icon"><img src="images/assessment.png"width="100" height="70"  style="position:relative; top:-10px"></div>
             
             <p class="card__exit"></p>
         
@@ -594,7 +658,7 @@
                 <h2 class="footer-menu-name"> Informationen</h2>
                 <ul id="menu-quick-links" class="footer-menu-list">
                 <li class="menu-item menu-item-type-custom menu-item-object-custom">
-                    <a target="_blank" rel="noopener noreferrer" href="tel:+41335251505">tel:+41335251505</a>
+                    <a target="_blank" rel="noopener noreferrer" href="tel:+41335251505">tel:+41 33 438 82 82 </a>
                 </li>
                 <li class="menu-item menu-item-type-custom menu-item-object-custom">
                     <a target="_blank" rel="noopener noreferrer" href=" info@des-tech.ch"> info@des-tech.ch</a>
@@ -610,7 +674,7 @@
             </div>
             <div class="footer-call-to-action">
                 <h2 class="footer-call-to-action-title"> SIE RUFEN UNS AN</h2>
-                <p class="footer-call-to-action-link-wrapper"> <a class="footer-call-to-action-link" href="tel:0124-64XXXX" target="_self"> +41335251505 </a></p>
+                <p class="footer-call-to-action-link-wrapper"> <a class="footer-call-to-action-link" href="tel:0124-64XXXX" target="_self"> +41 33 438 82 82 </a></p>
             </div>
             </div>
             <div class="footer-social-links"> 

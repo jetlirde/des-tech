@@ -217,7 +217,7 @@
                 <h2 class="footer-menu-name"> Informationen</h2>
                 <ul id="menu-quick-links" class="footer-menu-list">
                 <li class="menu-item menu-item-type-custom menu-item-object-custom">
-                    <a target="_blank" rel="noopener noreferrer" href="tel:+41335251505">tel:+41335251505</a>
+                    <a target="_blank" rel="noopener noreferrer" href="tel:+41335251505">tel:+41 33 438 82 82 </a>
                 </li>
                 <li class="menu-item menu-item-type-custom menu-item-object-custom">
                     <a target="_blank" rel="noopener noreferrer" href=" info@des-tech.ch"> info@des-tech.ch</a>
@@ -233,7 +233,7 @@
             </div>
             <div class="footer-call-to-action">
                 <h2 class="footer-call-to-action-title"> SIE RUFEN UNS AN</h2>
-                <p class="footer-call-to-action-link-wrapper"> <a class="footer-call-to-action-link" href="tel:0124-64XXXX" target="_self"> +41335251505 </a></p>
+                <p class="footer-call-to-action-link-wrapper"> <a class="footer-call-to-action-link" href="tel:0124-64XXXX" target="_self"> +41 33 438 82 82  </a></p>
             </div>
             </div>
             <div class="footer-social-links" class="icons"> 

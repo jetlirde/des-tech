@@ -434,7 +434,10 @@ body {
 }
 
 
-
+.info{
+  display: block;
+  margin-left: auto;
+}
 
 
 

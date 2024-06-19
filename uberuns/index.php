@@ -75,7 +75,7 @@ https://templatemo.com/tm-590-topic-listing
 
                         </li>
                         <li class="nav-item">
-                            <a class="nav-link click-scroll" href="#kontakt">Kontakt</a>
+                            <a class="nav-link click-scroll" href="#kontakt1">Kontakt</a>
                         </li>
 
                        
@@ -174,7 +174,7 @@ https://templatemo.com/tm-590-topic-listing
                             <iframe class="giframe" src="https://www.google.com/maps/embed?pb=!1m14!1m8!1m3!1d10927.232173658917!2d7.6051157!3d46.7883867!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x478fb3bde5e6ba59%3A0xfdf679a1905e0778!2sDesTech%20GmbH!5e0!3m2!1sen!2s!4v1691584352465!5m2!1sen!2s" width="600" height="450" style="border:0;" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe>
                         </div>
 
-                        <div class="col-lg-3 col-md-6 col-12 mb-3 mb-lg- mb-md-0 ms-auto">
+                        <div class="info">
                             <h4 class="mb-3">Hauptgeschäftsstelle</h4>
 
                             <p>Stockhornstrasse 11, 3627 Heimberg, Switzerland</p>
@@ -185,7 +185,7 @@ https://templatemo.com/tm-590-topic-listing
                                 <span class="me-2">Telefon:</span>
 
                                 <a href="tel: 305-240-9671" class="site-footer-link">
-                                    +41 33 525 15 05
+                                  +41 33 438 82 82 
                                 </a>
                             </p>
 
@@ -236,7 +236,7 @@ https://templatemo.com/tm-590-topic-listing
                 <h2 class="footer-menu-name"> Informationen</h2>
                 <ul id="menu-quick-links" class="footer-menu-list">
                 <li class="menu-item menu-item-type-custom menu-item-object-custom">
-                    <a target="_blank" rel="noopener noreferrer" href="tel:+41335251505">tel:+41335251505</a>
+                    <a target="_blank" rel="noopener noreferrer" href="tel:+41335251505">tel:+41 33 438 82 82 </a>
                 </li>
                 <li class="menu-item menu-item-type-custom menu-item-object-custom">
                     <a target="_blank" rel="noopener noreferrer" href=" info@des-tech.ch"> info@des-tech.ch</a>
@@ -252,7 +252,7 @@ https://templatemo.com/tm-590-topic-listing
             </div>
             <div class="footer-call-to-action">
                 <h2 class="footer-call-to-action-title"> SIE RUFEN UNS AN</h2>
-                <p class="footer-call-to-action-link-wrapper"> <a class="footer-call-to-action-link" href="tel:0124-64XXXX" target="_self"> +41335251505 </a></p>
+                <p class="footer-call-to-action-link-wrapper"> <a class="footer-call-to-action-link" href="tel:0124-64XXXX" target="_self"> +41 33 438 82 82  </a></p>
             </div>
             </div>
             <div class="footer-social-links"> 
