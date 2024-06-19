@@ -33,7 +33,7 @@
         <nav class="navbar navbar-expand-lg">
             <div class="container">
                 <a class="navbar-brand" href="/">
-                    <img src="images/Destech1.svg"  width="150" height="100">
+                    <img src="images/Destech1.svg"  width="250" height="150">
                   
                 </a>
 
@@ -116,7 +116,8 @@
             </header>
 
               
-            <body style="background-image: linear-gradient(15deg, #b3bcc8 0%, #1F5EA1  100%);">
+            <!-- <body style="background-image: linear-gradient(15deg, #b3bcc8 0%, #1F5EA1  100%);"> -->
+            <body>
                 <br><br><br>
                 <div class="container">
                     <div class="row">
@@ -155,10 +156,10 @@
                         <div class="col-md-3 col-sm-6">
                             <div class="our-team">
                                 <div class="pic">
-                                    <img src="images/image3.jpg">
+                                    <img src="images/Jetlir.jpg">
                                 </div>
-                                <h3 class="title">Kristiana</h3>
-                                <span class="post">Web Designer</span>
+                                <h3 class="title">Jetlir Destani</h3>
+                                <span class="post">IT</span>
                                 <ul class="sociall">
                                     <li><a href="#" class="fa fa-facebook"></a></li>
                                     <li><a href="#" class="fa fa-twitter"></a></li>
@@ -184,68 +185,90 @@
                   </div>     
         </div>
     </div>    
-        <footer class="site-footer section-padding" id="kontakt">
-            <div class="container">
-                <div class="row">
+    <div id="kontakt1" class="pg-footer">
+     <footer class="footer">
+        <svg class="footer-wave-svg" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1200 100" preserveAspectRatio="none">
+        <path class="footer-wave-path" d="M851.8,100c125,0,288.3-45,348.2-64V0H0v44c3.7-1,7.3-1.9,11-2.9C80.7,22,151.7,10.8,223.5,6.3C276.7,2.9,330,4,383,9.8 c52.2,5.7,103.3,16.2,153.4,32.8C623.9,71.3,726.8,100,851.8,100z" fill="#1F5EA1"></path>
 
-                    <div class="col-lg-3 col-12 mb-4 pb-2">
-                        <a class="navbar-brand mb-2" href="/">
-                          
-                          <img src="images/destech.png"  width="150" height="50">
-                                  
-                        </a>
-                    </div>
-
-                    <div class="col-lg-3 col-md-4 col-6">
-                     
-                        <ul class="site-footer-links">
-                            <li class="site-footer-link-item">
-                                <a href="#" class="site-footer-link">Home</a>
-                            </li>
-                            <li class="site-footer-link-item">
-                                <a href="#" class="site-footer-link">Dienstleistungen</a>
-                            </li>
-
-                            <li class="site-footer-link-item">
-                                <a href="#" class="site-footer-link">Wie es funktioniert</a>
-                            </li>
-
-                            <li class="site-footer-link-item">
-                                <a href="#" class="site-footer-link">Häufig gestellte freagen(FAQ)</a>
-                            </li>
-
-                            <li class="site-footer-link-item">
-                                <a href="#" class="site-footer-link">Kontakt</a>
-                            </li>
-                        </ul>
-                    </div>
-
-                    <div class="col-lg-3 col-md-4 col-6 mb-4 mb-lg-0">
-                        <h6 class="site-footer-title mb-3">Informationen</h6>
-
-                        <p class="text-white d-flex mb-1">
-                            <a href="tel: 305-240-9671" class="site-footer-link">
-                                +41 33 525 15 05
-                            </a>
-                        </p>
-
-                        <p class="text-white d-flex">
-                            <a href="mailto:info@company.com" class="site-footer-link">
-                                info@des-tech.ch
-                            </a>
-                        </p>
-                    </div>
-
-           
-
-                        <p class="copyright-text mt-lg-5 mt-4">Copyright © 2024</p>
-                       
-                        
-                    </div>
-
-                </div>
+        </svg>
+        <div class="footer-content">
+            <div class="footer-content-column">
+            <div class="footer-logo">
+             <img src="images/Destech1.svg"  width="350" height="250">
+               
+                
+                
             </div>
-        </footer>
+            <div class="footer-menu">
+            
+            </div>
+            </div>
+            <div class="footer-content-column">
+            <div class="footer-menu">
+                
+            </div>
+            <div class="footer-menu">
+                
+                
+            </div>
+            </div>
+            <div class="footer-content-column">
+            <div class="footer-menu">
+                <h2 class="footer-menu-name"> Informationen</h2>
+                <ul id="menu-quick-links" class="footer-menu-list">
+                <li class="menu-item menu-item-type-custom menu-item-object-custom">
+                    <a target="_blank" rel="noopener noreferrer" href="tel:+41335251505">tel:+41335251505</a>
+                </li>
+                <li class="menu-item menu-item-type-custom menu-item-object-custom">
+                    <a target="_blank" rel="noopener noreferrer" href=" info@des-tech.ch"> info@des-tech.ch</a>
+                </li>
+                
+            </div>
+            </div>
+            <div class="footer-content-column">
+            <div class="footer-call-to-action">
+                <h2 class="footer-call-to-action-title"> Hauptgeschäftsstelle</h2>
+                <p class="footer-call-to-action-description"> Stockhornstrasse 11, 3627 Heimberg, Switzerland</p>
+                <a class="footer-call-to-action-button button" href="https://maps.app.goo.gl/stuzCeufEbj9dUj68" target="_self"> Schauen Sie auf der Karte nach </a>
+            </div>
+            <div class="footer-call-to-action">
+                <h2 class="footer-call-to-action-title"> SIE RUFEN UNS AN</h2>
+                <p class="footer-call-to-action-link-wrapper"> <a class="footer-call-to-action-link" href="tel:0124-64XXXX" target="_self"> +41335251505 </a></p>
+            </div>
+            </div>
+            <div class="footer-social-links" class="icons"> 
+            <a class="footer-social-link linkedin" href="https://www.linkedin.com/in/fatlind-destani-7002431a0/" target="_blank">
+                <span class="hidden-link-text">Linkedin</span>
+                <svg class="footer-social-icon-svg" xmlns="http://www.w3.org/2000/svg"
+                viewBox="0 0 30 30">
+                <path class="footer-social-icon-path" d="M9,25H4V10h5V25z M6.501,8C5.118,8,4,6.879,4,5.499S5.12,3,6.501,3C7.879,3,9,4.121,9,5.499C9,6.879,7.879,8,6.501,8z M27,25h-4.807v-7.3c0-1.741-0.033-3.98-2.499-3.98c-2.503,0-2.888,1.896-2.888,3.854V25H12V9.989h4.614v2.051h0.065 c0.642-1.18,2.211-2.424,4.551-2.424c4.87,0,5.77,3.109,5.77,7.151C27,16.767,27,25,27,25z"></path>
+                </svg>
+            </a>
+            <a class="footer-social-link twitter" href="https://www.instagram.com/destech.gmbh/" target="_blank">
+                <span class="hidden-link-text">Instagram</span>
+                <svg xmlns="http://www.w3.org/2000/svg" width="16" height="16" fill="currentColor" class="bi bi-instagram" viewBox="0 0 16 16">
+                <path d="M8 0C5.829 0 5.556.01 4.703.048 3.85.088 3.269.222 2.76.42a3.9 3.9 0 0 0-1.417.923A3.9 3.9 0 0 0 .42 2.76C.222 3.268.087 3.85.048 4.7.01 5.555 0 5.827 0 8.001c0 2.172.01 2.444.048 3.297.04.852.174 1.433.372 1.942.205.526.478.972.923 1.417.444.445.89.719 1.416.923.51.198 1.09.333 1.942.372C5.555 15.99 5.827 16 8 16s2.444-.01 3.298-.048c.851-.04 1.434-.174 1.943-.372a3.9 3.9 0 0 0 1.416-.923c.445-.445.718-.891.923-1.417.197-.509.332-1.09.372-1.942C15.99 10.445 16 10.173 16 8s-.01-2.445-.048-3.299c-.04-.851-.175-1.433-.372-1.941a3.9 3.9 0 0 0-.923-1.417A3.9 3.9 0 0 0 13.24.42c-.51-.198-1.092-.333-1.943-.372C10.443.01 10.172 0 7.998 0zm-.717 1.442h.718c2.136 0 2.389.007 3.232.046.78.035 1.204.166 1.486.275.373.145.64.319.92.599s.453.546.598.92c.11.281.24.705.275 1.485.039.843.047 1.096.047 3.231s-.008 2.389-.047 3.232c-.035.78-.166 1.203-.275 1.485a2.5 2.5 0 0 1-.599.919c-.28.28-.546.453-.92.598-.28.11-.704.24-1.485.276-.843.038-1.096.047-3.232.047s-2.39-.009-3.233-.047c-.78-.036-1.203-.166-1.485-.276a2.5 2.5 0 0 1-.92-.598 2.5 2.5 0 0 1-.6-.92c-.109-.281-.24-.705-.275-1.485-.038-.843-.046-1.096-.046-3.233s.008-2.388.046-3.231c.036-.78.166-1.204.276-1.486.145-.373.319-.64.599-.92s.546-.453.92-.598c.282-.11.705-.24 1.485-.276.738-.034 1.024-.044 2.515-.045zm4.988 1.328a.96.96 0 1 0 0 1.92.96.96 0 0 0 0-1.92m-4.27 1.122a4.109 4.109 0 1 0 0 8.217 4.109 4.109 0 0 0 0-8.217m0 1.441a2.667 2.667 0 1 1 0 5.334 2.667 2.667 0 0 1 0-5.334"/>
+                </svg>
+            </a>
+            <a class="footer-social-link youtube" href="https://www.facebook.com/people/DesTech-GmbH/100069865483095/" target="_blank">
+                <span class="hidden-link-text">facebook</span>
+                <svg xmlns="http://www.w3.org/2000/svg" width="16" height="16" fill="currentColor" class="bi bi-facebook" viewBox="0 0 16 16">
+
+                <path d="M16 8.049c0-4.446-3.582-8.05-8-8.05C3.58 0-.002 3.603-.002 8.05c0 4.017 2.926 7.347 6.75 7.951v-5.625h-2.03V8.05H6.75V6.275c0-2.017 1.195-3.131 3.022-3.131.876 0 1.791.157 1.791.157v1.98h-1.009c-.993 0-1.303.621-1.303 1.258v1.51h2.218l-.354 2.326H9.25V16c3.824-.604 6.75-3.934 6.75-7.951"/>
+                </svg>
+            </a>
+            
+            </div>
+        </div>
+        <div class="footer-copyright">
+            <div class="footer-copyright-wrapper">
+            <p class="footer-copyright-text">
+                <a class="footer-copyright-link" href="#" target="_self"> ©2024. |All rights reserved  DesTech. </a>
+            </p>
+            </div>
+        </div>
+    </footer>
+    </div>
 
 
         <!-- JAVASCRIPT FILES -->
