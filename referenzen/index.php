@@ -16,11 +16,11 @@
 
         <link href="https://fonts.googleapis.com/css2?family=Montserrat:wght@500;600;700&family=Open+Sans&display=swap" rel="stylesheet">
                         
-        <link href="css/bootstrap-icons.css" rel="stylesheet">
+        <link href="/css/bootstrap-icons.css" rel="stylesheet">
         <link rel="stylesheet" href="/css/libs/font-awesome.css">
         <link rel="stylesheet" href="/css/libs/bootstrap.min.css">
         
-        <link href="css/templatemo-topic-listing.css" rel="stylesheet">
+        <link href="/css/templatemo-topic-listing.css" rel="stylesheet">
         
         <link rel="stylesheet" href="/css/css.css">>
      
@@ -30,18 +30,15 @@
 
         <main>
 
-            <nav class="navbar navbar-expand-lg">
+        <nav class="navbar navbar-expand-lg">
                 <div class="container">
                     <a class="navbar-brand" href="/">
-                        <img src="images/Destech1.svg"  width="250" height="150">
+                        <img src="/images/Destech1.svg"   height="270">
                       
                     </a>
-
-                  
                     <button class="navbar-toggler" type="button" data-bs-toggle="collapse" data-bs-target="#navbarNav" aria-controls="navbarNav" aria-expanded="false" aria-label="Toggle navigation">
                         <span class="navbar-toggler-icon"></span>
                     </button>
-    
                     <div class="collapse navbar-collapse" id="navbarNav">
                         <ul class="navbar-nav ms-lg-5 me-lg-auto">
                             <li class="nav-item">
@@ -51,32 +48,26 @@
                                 <a class="nav-link dropdown-toggle" href="#section_3" id="navbarLightDropdownMenuLink" role="button" data-bs-toggle="collapse" data-bs-target="#services" aria-expanded="false">Dienstleistungen</a>
     
                                 <ul id="services" class="dropdown-menu dropdown-menu-light navbar-desktop-block dropdown navbar-collapse collapse"  aria-labelledby="navbarLightDropdownMenuLink">
-                                    <li><a class="dropdown-item" href="heizung">Heizung</a></li>
+                                    <li><a class="dropdown-item" href="/heizung">Heizung</a></li>
     
-                                    <li><a class="dropdown-item" href="luftung">Lüftung</a></li>
-                                    <li><a class="dropdown-item" href="sanitar">Sanitär</a></li>
+                                    <li><a class="dropdown-item" href="/luftung">Lüftung</a></li>
+                                    <li><a class="dropdown-item" href="/sanitar">Sanitär</a></li>
                                 </ul>
                             </li>
                             <li class="nav-item dropdown">
                                 <a class="nav-link dropdown-toggle" data-bs-toggle="collapse" data-bs-target="#about" href="#">Über uns</a>
-    
                                 <ul id="about" class="dropdown-menu dropdown-menu-light navbar-desktop-block navbar-collapse collapse" targetted="about-sec" others="header-drop" aria-labelledby="navbarLightDropdownMenuLink">
-                                    <li><a class="dropdown-item" href="uberuns">Über uns</a></li>
-                                    <li><a class="dropdown-item" href="unserteam">Unser Team</a></li>
+                                    <li><a class="dropdown-item" href="/uberuns">Über uns</a></li>
+                                    <li><a class="dropdown-item" href="/unserteam">Unser Team</a></li>
                                 </ul>
                             </li>
                             <li class="nav-item dropdown">
-                                <a class="nav-link click-scroll" href="referenzen">Referenzen</a>
-    
+                               <a class="nav-link click-scroll" href="/referenzen">Referenzen</a>
                             </li>
                             <li class="nav-item">
                                 <a class="nav-link click-scroll" href="#kontakt1">Kontakt</a>
                             </li>
-    
-                           
                         </ul>
-    
-                       
                     </div>
                 </div>
             </nav>
@@ -106,7 +97,7 @@
 
                         <div class="col-lg-5 col-12">
                             <div class="topics-detail-block bg-white shadow-lg">
-                                <img src="images/ppp.jfif" class="topics-detail-block-image img-fluid">
+                                <img src="/images/ppp.jfif" class="topics-detail-block-image img-fluid">
                             </div>
                         </div>
 
@@ -116,7 +107,7 @@
         
             <div class="wrap">
                 <div class="tile"> 
-                  <img src='images/topics/342.jpg'/>
+                  <img src='/images/topics/342.jpg'/>
                   <div class="text">
                   <h1>Bern.</h1>
                   <h2 class="animate-text">More lorem ipsum bacon ipsum.</h2>
@@ -131,7 +122,7 @@
                 
                 
                 <div class="tile"> 
-                  <img src='images/topics/1.jpg'/>
+                  <img src='/images/topics/1.jpg'/>
                   <div class="text">
                   <h1>Thun</h1>
                   <h2 class="animate-text">More lorem ipsum bacon ipsum.</h2>
@@ -146,7 +137,7 @@
                  
                   
                   <div class="tile"> 
-                  <img src='images/topics/tok.jpeg'/>
+                  <img src='/images/topics/tok.jpeg'/>
                   <div class="text">
                   <h1>Heimberg.</h1>
                   <h2 class="animate-text">More lorem ipsum bacon ipsum.</h2>
@@ -161,7 +152,7 @@
                 </div>
                 <div class="wrap">
                     <div class="tile"> 
-                      <img src='images/topics/45.jpg'/>
+                      <img src='/images/topics/45.jpg'/>
                       <div class="text">
                       <h1>Bern.</h1>
                       <h2 class="animate-text">More lorem ipsum bacon ipsum.</h2>
@@ -176,7 +167,7 @@
                     
                     
                     <div class="tile"> 
-                      <img src='images/topics/532.jpg'/>
+                      <img src='/images/topics/532.jpg'/>
                       <div class="text">
                       <h1>Thun</h1>
                       <h2 class="animate-text">More lorem ipsum bacon ipsum.</h2>
@@ -191,7 +182,7 @@
                      
                       
                       <div class="tile"> 
-                      <img src='images/topics/efr.jpg'/>
+                      <img src='/images/topics/efr.jpg'/>
                       <div class="text">
                       <h1>Heimberg.</h1>
                       <h2 class="animate-text">More lorem ipsum bacon ipsum.</h2>
@@ -216,7 +207,7 @@
         <div class="footer-content">
             <div class="footer-content-column">
             <div class="footer-logo">
-             <img src="images/Destech1.svg"  width="350" height="250">
+             <img src="/images/Destech1.svg"   height="400">
                
                 
                 
@@ -292,11 +283,11 @@
     </footer>
     </div>
         <!-- JAVASCRIPT FILES -->
-        <script src="js/jquery.min.js"></script>
-        <script src="js/bootstrap.bundle.min.js"></script>
-        <script src="js/jquery.sticky.js"></script>
-        <script src="js/custom.js"></script>
-        <script src="js/pt.js"></script>
+        <script src="/js/jquery.min.js"></script>
+        <script src="/js/bootstrap.bundle.min.js"></script>
+        <script src="/js/jquery.sticky.js"></script>
+        <script src="/js/custom.js"></script>
+        <script src="/js/pt.js"></script>
 
     </body>
 </html>

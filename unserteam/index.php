@@ -16,12 +16,12 @@
 
         <link href="https://fonts.googleapis.com/css2?family=Montserrat:wght@500;600;700&family=Open+Sans&display=swap" rel="stylesheet">
                         
-        <link href="css/bootstrap.min.css" rel="stylesheet">
+        <link href="/css/bootstrap.min.css" rel="stylesheet">
 
-        <link href="css/bootstrap-icons.css" rel="stylesheet">
+        <link href="/css/bootstrap-icons.css" rel="stylesheet">
 
-        <link href="css/templatemo-topic-listing.css" rel="stylesheet">
-        <link rel="stylesheet" href="css/css.css">
+        <link href="/css/templatemo-topic-listing.css" rel="stylesheet">
+        <link rel="stylesheet" href="/css/css.css">
         <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/4.7.0/css/font-awesome.min.css">
        <link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/bootstrap@4.6.0/dist/css/bootstrap.min.css" integrity="sha384-B0vP5xmATw1+K9KRQjQERJvTumQW0nPEzvF6L/Z6nronJ3oUOFUFpCjEUQouq2+l" crossorigin="anonymous">
       <link rel="preconnect" href="https://fonts.googleapis.com">
@@ -33,7 +33,7 @@
         <nav class="navbar navbar-expand-lg">
             <div class="container">
                 <a class="navbar-brand" href="/">
-                    <img src="images/Destech1.svg"  width="250" height="150">
+                    <img src="/images/Destech1.svg"  height="270">
                   
                 </a>
 
@@ -52,22 +52,22 @@
                             <a class="nav-link dropdown-toggle" href="#section_3" id="navbarLightDropdownMenuLink" role="button" data-bs-toggle="collapse" data-bs-target="#services" aria-expanded="false">Dienstleistungen</a>
 
                             <ul id="services" class="dropdown-menu dropdown-menu-light navbar-desktop-block dropdown navbar-collapse collapse"  aria-labelledby="navbarLightDropdownMenuLink">
-                                <li><a class="dropdown-item" href="heizung">Heizung</a></li>
+                                <li><a class="dropdown-item" href="/heizung">Heizung</a></li>
 
-                                <li><a class="dropdown-item" href="luftung">Lüftung</a></li>
-                                <li><a class="dropdown-item" href="sanitar">Sanitär</a></li>
+                                <li><a class="dropdown-item" href="/luftung">Lüftung</a></li>
+                                <li><a class="dropdown-item" href="/sanitar">Sanitär</a></li>
                             </ul>
                         </li>
                         <li class="nav-item dropdown">
                             <a class="nav-link dropdown-toggle" data-bs-toggle="collapse" data-bs-target="#about" href="#">Über uns</a>
 
                             <ul id="about" class="dropdown-menu dropdown-menu-light navbar-desktop-block navbar-collapse collapse" targetted="about-sec" others="header-drop" aria-labelledby="navbarLightDropdownMenuLink">
-                                <li><a class="dropdown-item" href="uberuns">Über uns</a></li>
+                                <li><a class="dropdown-item" href="/uberuns">Über uns</a></li>
                                 <li><a class="dropdown-item" href="#">Unser Team</a></li>
                             </ul>
                         </li>
                         <li class="nav-item dropdown">
-                            <a class="nav-link click-scroll" href="referenzen">Referenzen</a>
+                            <a class="nav-link click-scroll" href="/referenzen">Referenzen</a>
 
                         </li>
                         <li class="nav-item">
@@ -107,7 +107,7 @@
 
                         <div class="col-lg-5 col-12">
                             <div class="topics-detail-block bg-white shadow-lg">
-                                <img src="images/topics/dest.jpeg" class="topics-detail-block-image img-fluid">
+                                <img src="/images/topics/dest.jpeg" class="topics-detail-block-image img-fluid">
                             </div>
                         </div>
 
@@ -124,7 +124,7 @@
                         <div class="col-md-3 col-sm-6">
                             <div class="our-team">
                                 <div class="pic">
-                                    <img src="images/fatlind.png">
+                                    <img src="/images/fatlind.png">
                                 </div>
                                 <h3 class="title">Fatlind Destani</h3>
                                 <span class="post">CEO and founder</span>
@@ -140,7 +140,7 @@
                         <div class="col-md-3 col-sm-6">
                             <div class="our-team">
                                 <div class="pic">
-                                    <img src="images/donika.png">
+                                    <img src="/images/donika.png">
                                 </div>
                                 <h3 class="title">Donika Smajli</h3>
                                 <span class="post">Accountant</span>
@@ -156,7 +156,7 @@
                         <div class="col-md-3 col-sm-6">
                             <div class="our-team">
                                 <div class="pic">
-                                    <img src="images/Jetlir.jpg">
+                                    <img src="/images/Jetlir.jpg">
                                 </div>
                                 <h3 class="title">Jetlir Destani</h3>
                                 <span class="post">IT</span>
@@ -171,7 +171,7 @@
                         <div class="col-md-3 col-sm-6">
                             <div class="our-team">
                                 <div class="pic">
-                                    <img src="images/image4.jpg">
+                                    <img src="/images/image4.jpg">
                                 </div>
                                 <h3 class="title">Kristiana</h3>
                                 <span class="post">Web Designer</span>
@@ -194,7 +194,7 @@
         <div class="footer-content">
             <div class="footer-content-column">
             <div class="footer-logo">
-             <img src="images/Destech1.svg"  width="350" height="250">
+             <img src="/images/Destech1.svg"   height="400">
                
                 
                 
@@ -272,10 +272,10 @@
 
 
         <!-- JAVASCRIPT FILES -->
-        <script src="js/jquery.min.js"></script>
-        <script src="js/bootstrap.bundle.min.js"></script>
-        <script src="js/jquery.sticky.js"></script>
-        <script src="js/click-scroll.js"></script>
-        <script src="js/custom.js"></script>
+        <script src="/js/jquery.min.js"></script>
+        <script src="/js/bootstrap.bundle.min.js"></script>
+        <script src="/js/jquery.sticky.js"></script>
+        <script src="/js/click-scroll.js"></script>
+        <script src="/js/custom.js"></script>
     </body>
 </html>

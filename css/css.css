@@ -270,6 +270,7 @@ nav.navbar.navbar {
 
 
 
+
 * {
   margin: 0;
   padding: 0;
@@ -316,6 +317,10 @@ body {
   display: flex;
   flex-wrap: wrap;
   justify-content: space-between;
+ 
+}
+.cards p{
+  color: #fff;
 }
 
 .card {
@@ -324,7 +329,7 @@ body {
   width: 500px;
   min-height: 200px;
   display: grid;
-  grid-template-rows: 20px 50px 1fr 50px;
+  grid-template-rows: 1fr;
   border-radius: 10px;
   box-shadow: 0px 6px 10px rgba(0, 0, 0, 0.25);
   transition: all 0.2s;
@@ -382,23 +387,23 @@ body {
 /* CARD BACKGROUNDS */
 
 .card-1 {
-  background: radial-gradient(#1fe4f5, #3fbafe);
+  background: radial-gradient(#1F5EA1, #1D3F6C);
 }
 
 .card-2 {
-  background: radial-gradient(#fbc1cc, #fa99b2);
+  background: radial-gradient(#1F5EA1, #1D3F6C);
 }
 
 .card-3 {
-  background: radial-gradient(#76b2fe, #b69efe);
+  background: radial-gradient(#1F5EA1, #1D3F6C);
 }
 
 .card-4 {
-  background: radial-gradient(#60efbc, #58d5c9);
+  background: radial-gradient(#1F5EA1, #1D3F6C);
 }
 
 .card-5 {
-  background: radial-gradient(#f588d8, #c0a3e5);
+  background: radial-gradient(#1F5EA1, #1D3F6C);
 }
 
 /* RESPONSIVE */
@@ -461,7 +466,7 @@ a {
 
 
 .footer {
-    background-color: #004658;
+  background: radial-gradient(#1F5EA1, #1D3F6C);
     color: #fff;
 }
 .footer-wave-svg {
@@ -473,7 +478,7 @@ a {
     width: 100%;
 }
 .footer-wave-path {
-    fill: #fffff2;
+    fill: #ffffff;
 }
 
 .footer-content {
@@ -538,7 +543,7 @@ a {
     margin-right: 0;
 }
 .footer-call-to-action-button {
-    background-color: #027b9a;
+    background-color: #1D3F6C;
     border-radius: 21px;
     color: #fffff2;
     display: inline-block;
@@ -656,8 +661,8 @@ a {
 
 
 .footer-copyright {
-    background-color: #027b9a;
-    color: #fff;
+  background: radial-gradient(#1F5EA1, #1D3F6C);
+    color: #ffffff;
     padding: 15px 30px;
   text-align: center;
 }
@@ -740,7 +745,7 @@ a {
   }
 
   .footer-wave-svg {
-      height: 50px;
+      height: 0px;
   }
 
   .footer-content-column {

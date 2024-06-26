@@ -16,11 +16,11 @@
 
         <link href="https://fonts.googleapis.com/css2?family=Montserrat:wght@500;600;700&family=Open+Sans&display=swap" rel="stylesheet">
                         
-        <link href="css/bootstrap-icons.css" rel="stylesheet">
+        <link href="/css/bootstrap-icons.css" rel="stylesheet">
         <link rel="stylesheet" href="/css/libs/font-awesome.css">
         <link rel="stylesheet" href="/css/libs/bootstrap.min.css">
         
-        <link href="css/templatemo-topic-listing.css" rel="stylesheet">
+        <link href="/css/templatemo-topic-listing.css" rel="stylesheet">
         
         <link rel="stylesheet" href="/css/css.css">
 <!--
@@ -34,57 +34,47 @@ https://templatemo.com/tm-590-topic-listing
     
     <body class="topics-listing-page" id="top">
 
-        <nav class="navbar navbar-expand-lg">
-            <div class="container">
-                <a class="navbar-brand" href="/">
-                    <img src="images/Destech1.svg"  width="250" height="150">
-                  
-                </a>
-
-              
-
-                <button class="navbar-toggler" type="button" data-bs-toggle="collapse" data-bs-target="#navbarNav" aria-controls="navbarNav" aria-expanded="false" aria-label="Toggle navigation">
-                    <span class="navbar-toggler-icon"></span>
-                </button>
-
-                <div class="collapse navbar-collapse" id="navbarNav">
-                    <ul class="navbar-nav ms-lg-5 me-lg-auto">
-                        <li class="nav-item">
-                            <a class="nav-link click-scroll" href="/">Home</a>
-                        </li>
-                        <li class="nav-item dropdown">
-                            <a class="nav-link dropdown-toggle" href="#section_3" id="navbarLightDropdownMenuLink" role="button" data-bs-toggle="collapse" data-bs-target="#services" aria-expanded="false">Dienstleistungen</a>
-
-                            <ul id="services" class="dropdown-menu dropdown-menu-light navbar-desktop-block dropdown navbar-collapse collapse"  aria-labelledby="navbarLightDropdownMenuLink">
-                                <li><a class="dropdown-item" href="heizung">Heizung</a></li>
-
-                                <li><a class="dropdown-item" href="luftung">Lüftung</a></li>
-                                <li><a class="dropdown-item" href="sanitar">Sanitär</a></li>
-                            </ul>
-                        </li>
-                        <li class="nav-item dropdown">
-                            <a class="nav-link dropdown-toggle" data-bs-toggle="collapse" data-bs-target="#about" href="#">Über uns</a>
-
-                            <ul id="about" class="dropdown-menu dropdown-menu-light navbar-desktop-block navbar-collapse collapse" targetted="about-sec" others="header-drop" aria-labelledby="navbarLightDropdownMenuLink">
-                                <li><a class="dropdown-item" href="uberuns">Über uns</a></li>
-                                <li><a class="dropdown-item" href="unserteam">Unser Team</a></li>
-                            </ul>
-                        </li>
-                        <li class="nav-item dropdown">
-                            <a class="nav-link click-scroll" href="referenzen">Referenzen</a>
-
-                        </li>
-                        <li class="nav-item">
-                            <a class="nav-link click-scroll" href="#kontakt1">Kontakt</a>
-                        </li>
-
-                       
-                    </ul>
-
-                   
+    <nav class="navbar navbar-expand-lg">
+                <div class="container">
+                    <a class="navbar-brand" href="/">
+                        <img src="/images/Destech1.svg"   height="270">
+                      
+                    </a>
+                    <button class="navbar-toggler" type="button" data-bs-toggle="collapse" data-bs-target="#navbarNav" aria-controls="navbarNav" aria-expanded="false" aria-label="Toggle navigation">
+                        <span class="navbar-toggler-icon"></span>
+                    </button>
+                    <div class="collapse navbar-collapse" id="navbarNav">
+                        <ul class="navbar-nav ms-lg-5 me-lg-auto">
+                            <li class="nav-item">
+                                <a class="nav-link click-scroll" href="/">Home</a>
+                            </li>
+                            <li class="nav-item dropdown">
+                                <a class="nav-link dropdown-toggle" href="#section_3" id="navbarLightDropdownMenuLink" role="button" data-bs-toggle="collapse" data-bs-target="#services" aria-expanded="false">Dienstleistungen</a>
+    
+                                <ul id="services" class="dropdown-menu dropdown-menu-light navbar-desktop-block dropdown navbar-collapse collapse"  aria-labelledby="navbarLightDropdownMenuLink">
+                                    <li><a class="dropdown-item" href="/heizung">Heizung</a></li>
+    
+                                    <li><a class="dropdown-item" href="/luftung">Lüftung</a></li>
+                                    <li><a class="dropdown-item" href="/sanitar">Sanitär</a></li>
+                                </ul>
+                            </li>
+                            <li class="nav-item dropdown">
+                                <a class="nav-link dropdown-toggle" data-bs-toggle="collapse" data-bs-target="#about" href="#">Über uns</a>
+                                <ul id="about" class="dropdown-menu dropdown-menu-light navbar-desktop-block navbar-collapse collapse" targetted="about-sec" others="header-drop" aria-labelledby="navbarLightDropdownMenuLink">
+                                    <li><a class="dropdown-item" href="/uberuns">Über uns</a></li>
+                                    <li><a class="dropdown-item" href="/unserteam">Unser Team</a></li>
+                                </ul>
+                            </li>
+                            <li class="nav-item dropdown">
+                               <a class="nav-link click-scroll" href="/referenzen">Referenzen</a>
+                            </li>
+                            <li class="nav-item">
+                                <a class="nav-link click-scroll" href="#kontakt1">Kontakt</a>
+                            </li>
+                        </ul>
+                    </div>
                 </div>
-            </div>
-        </nav>
+            </nav>
             <header class="site-header d-flex flex-column justify-content-center align-items-center">
                 <div class="container">
                     <div class="row align-items-center">
@@ -117,7 +107,7 @@ https://templatemo.com/tm-590-topic-listing
                         <div class="col-lg-8 col-12 mt-3 mx-auto">
                             <div class="custom-block custom-block-topics-listing bg-white shadow-lg mb-5">
                                 <div class="d-flex">
-                                    <img src="images/topics/3947_Lueftung.jpg" class="custom-block-image img-fluid" alt="">
+                                    <img src="/images/topics/3947_Lueftung.jpg" class="custom-block-image img-fluid" alt="">
 
                                     <div class="custom-block-topics-listing-info d-flex">
                                         <div>
@@ -137,7 +127,7 @@ https://templatemo.com/tm-590-topic-listing
 
                             <div class="custom-block custom-block-topics-listing bg-white shadow-lg mb-5">
                                 <div class="d-flex">
-                                    <img src="images/topics/lf.jpeg" class="custom-block-image img-fluid" alt="">
+                                    <img src="/images/topics/lf.jpeg" class="custom-block-image img-fluid" alt="">
 
                                     <div class="custom-block-topics-listing-info d-flex">
                                         <div>
@@ -157,7 +147,7 @@ https://templatemo.com/tm-590-topic-listing
 
                             <div class="custom-block custom-block-topics-listing bg-white shadow-lg mb-5">
                                 <div class="d-flex">
-                                    <img src="images/topics/56.jpg" class="custom-block-image img-fluid" alt="">
+                                    <img src="/images/topics/56.jpg" class="custom-block-image img-fluid" alt="">
 
                                     <div class="custom-block-topics-listing-info d-flex">
                                         <div>
@@ -213,7 +203,7 @@ https://templatemo.com/tm-590-topic-listing
                                                        
                                                     </div>
 
-                                                    <img src="images/topics/1.jpg" class="custom-block-image img-fluid" alt="">
+                                                    <img src="/images/topics/1.jpg" class="custom-block-image img-fluid" alt="">
                                                 </a>
                                             </div>
                                         </div>
@@ -232,7 +222,7 @@ https://templatemo.com/tm-590-topic-listing
                                                         
                                                     </div>
 
-                                                    <img src="images/topics/45.jpg" class="custom-block-image img-fluid" alt="">
+                                                    <img src="/images/topics/45.jpg" class="custom-block-image img-fluid" alt="">
                                                 </a>
                                             </div>
                                         </div>
@@ -251,7 +241,7 @@ https://templatemo.com/tm-590-topic-listing
                                                     
                                                     </div>
 
-                                                    <img src="images/topics/56.jpg" class="custom-block-image img-fluid" alt="">
+                                                    <img src="/images/topics/56.jpg" class="custom-block-image img-fluid" alt="">
                                                 </a>
                                             </div>
                                         </div>
@@ -274,7 +264,7 @@ https://templatemo.com/tm-590-topic-listing
                                                            
                                                         </div>
     
-                                                        <img src="images/topics/1.jpg" class="custom-block-image img-fluid" alt="">
+                                                        <img src="/images/topics/1.jpg" class="custom-block-image img-fluid" alt="">
                                                     </a>
                                                 </div>
                                             </div>
@@ -293,7 +283,7 @@ https://templatemo.com/tm-590-topic-listing
                                                             
                                                         </div>
     
-                                                        <img src="images/topics/45.jpg" class="custom-block-image img-fluid" alt="">
+                                                        <img src="/images/topics/45.jpg" class="custom-block-image img-fluid" alt="">
                                                     </a>
                                                 </div>
                                             </div>
@@ -312,7 +302,7 @@ https://templatemo.com/tm-590-topic-listing
                                                         
                                                         </div>
     
-                                                        <img src="images/topics/56.jpg" class="custom-block-image img-fluid" alt="">
+                                                        <img src="/images/topics/56.jpg" class="custom-block-image img-fluid" alt="">
                                                     </a>
                                                 </div>
                                             </div>
@@ -336,7 +326,7 @@ https://templatemo.com/tm-590-topic-listing
                                                            
                                                         </div>
     
-                                                        <img src="images/topics/1.jpg" class="custom-block-image img-fluid" alt="">
+                                                        <img src="/images/topics/1.jpg" class="custom-block-image img-fluid" alt="">
                                                     </a>
                                                 </div>
                                             </div>
@@ -355,7 +345,7 @@ https://templatemo.com/tm-590-topic-listing
                                                             
                                                         </div>
     
-                                                        <img src="images/topics/45.jpg" class="custom-block-image img-fluid" alt="">
+                                                        <img src="/images/topics/45.jpg" class="custom-block-image img-fluid" alt="">
                                                     </a>
                                                 </div>
                                             </div>
@@ -374,7 +364,7 @@ https://templatemo.com/tm-590-topic-listing
                                                         
                                                         </div>
     
-                                                        <img src="images/topics/56.jpg" class="custom-block-image img-fluid" alt="">
+                                                        <img src="/images/topics/56.jpg" class="custom-block-image img-fluid" alt="">
                                                     </a>
                                                 </div>
                                             </div>
@@ -396,7 +386,7 @@ https://templatemo.com/tm-590-topic-listing
         <div class="footer-content">
             <div class="footer-content-column">
             <div class="footer-logo">
-             <img src="images/Destech1.svg"  width="350" height="250">
+             <img src="/images/Destech1.svg"   height="400">
                
                 
                 
@@ -473,10 +463,10 @@ https://templatemo.com/tm-590-topic-listing
     </div>
 
         <!-- JAVASCRIPT FILES -->
-        <script src="js/jquery.min.js"></script>
-        <script src="js/bootstrap.bundle.min.js"></script>
-        <script src="js/jquery.sticky.js"></script>
-        <script src="js/custom.js"></script>
+        <script src="/js/jquery.min.js"></script>
+        <script src="/js/bootstrap.bundle.min.js"></script>
+        <script src="/js/jquery.sticky.js"></script>
+        <script src="/js/custom.js"></script>
 
     </body>
 </html>
