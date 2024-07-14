@@ -23,8 +23,8 @@
         <main>
             <nav class="navbar navbar-expand-lg">
                 <div class="container">
-                    <a class="navbar-brand" href="/">
-                        <img src="/images/Destech1.svg"   height="270">
+                    <a class="navbar-brand" class="navMb"  href="/">
+                        <img  src="/images/Destech1.svg" >
                       
                     </a>
                     <button class="navbar-toggler" type="button" data-bs-toggle="collapse" data-bs-target="#navbarNav" aria-controls="navbarNav" aria-expanded="false" aria-label="Toggle navigation">
@@ -191,7 +191,7 @@
                                     <div class="row">
                                         <div class="col-lg-4 col-md-6 col-12 mb-4 mb-lg-0">
                                             <div class="custom-block bg-white shadow-lg">
-                                                <a class="d-flex flex-column justify-content-between h-100" href="topics-detail">
+                                                <a class="box-holder-content d-flex flex-column justify-content-between h-100" >
                                                     <div class="d-flex">
                                                         <div>
                                                             <h5 class="mb-2">Energieeffizienz</h5>
@@ -209,7 +209,7 @@
 
                                         <div class="col-lg-4 col-md-6 col-12 mb-4 mb-lg-0">
                                             <div class="custom-block bg-white shadow-lg">
-                                                <a class="d-flex flex-column justify-content-between h-100" href="topics-detail">
+                                                <a class="box-holder-content d-flex flex-column justify-content-between h-100">
                                                     <div class="d-flex">
                                                         <div>
                                                             <h5 class="mb-2">Umbau/Sanierung</h5>
@@ -229,7 +229,7 @@
 
                                         <div class="col-lg-4 col-md-6 col-12">
                                             <div class="custom-block bg-white shadow-lg">
-                                                <a class="d-flex flex-column justify-content-between h-100" href="topics-detail">
+                                                <a class="box-holder-content d-flex flex-column justify-content-between h-100">
                                                     <div class="d-flex">
                                                         <div>
                                                             <h5 class="mb-2">Neubau</h5>
@@ -254,7 +254,7 @@
                                         <div class="row">
                                             <div class="col-lg-4 col-md-6 col-12 mb-4 mb-lg-0">
                                                 <div class="custom-block bg-white shadow-lg">
-                                                    <a class="d-flex flex-column justify-content-between h-100" href="topics-detail">
+                                                    <a class="d-flex flex-column justify-content-between h-100">
                                                         <div class="d-flex">
                                                             <div>
                                                                 <h5 class="mb-2">Komfortlüftungz</h5>
@@ -272,7 +272,7 @@
     
                                             <div class="col-lg-4 col-md-6 col-12 mb-4 mb-lg-0">
                                                 <div class="custom-block bg-white shadow-lg">
-                                                    <a class="d-flex flex-column justify-content-between h-100" href="topics-detail">
+                                                    <a class="d-flex flex-column justify-content-between h-100">
                                                         <div class="d-flex">
                                                             <div>
                                                                  <h5 class="mb-2">Industrielle Lüftungsanlageng</h5>
@@ -316,7 +316,7 @@
                                         <div class="row">
                                             <div class="col-lg-4 col-md-6 col-12 mb-4 mb-lg-0">
                                                 <div class="custom-block bg-white shadow-lg">
-                                                    <a class="d-flex flex-column justify-content-between h-100" href="topics-detail">
+                                                    <a class="d-flex flex-column justify-content-between h-100">
                                                         <div class="d-flex">
                                                             <div>
                                                                 <h5 class="mb-2">Neu- und Umbautenz</h5>
@@ -334,7 +334,7 @@
     
                                             <div class="col-lg-4 col-md-6 col-12 mb-4 mb-lg-0">
                                                 <div class="custom-block bg-white shadow-lg">
-                                                    <a class="d-flex flex-column justify-content-between h-100" href="topics-detail">
+                                                    <a class="d-flex flex-column justify-content-between h-100">
                                                         <div class="d-flex">
                                                             <div>
                                                                 <h5 class="mb-2">Badsanierungg</h5>
@@ -353,7 +353,7 @@
     
                                             <div class="col-lg-4 col-md-6 col-12">
                                                 <div class="custom-block bg-white shadow-lg">
-                                                    <a class="d-flex flex-column justify-content-between h-100" href="topics-detail">
+                                                    <a class="d-flex flex-column justify-content-between h-100">
                                                         <div class="d-flex">
                                                             <div>
                                                                 <h5 class="mb-2">Planung und Beratung</h5>
@@ -378,7 +378,7 @@
                                         <div class="row">
                                             <div class="col-lg-4 col-md-6 col-12 mb-4 mb-lg-0">
                                                 <div class="custom-block bg-white shadow-lg">
-                                                    <a class="d-flex flex-column justify-content-between h-100" href="topics-detail">
+                                                    <a class="d-flex flex-column justify-content-between h-100">
                                                         <div class="d-flex">
                                                             <div>
                                                                 <h5 class="mb-2">Energieberatung und Nachweise</h5>
@@ -396,7 +396,7 @@
     
                                             <div class="col-lg-4 col-md-6 col-12 mb-4 mb-lg-0">
                                                 <div class="custom-block bg-white shadow-lg">
-                                                    <a class="d-flex flex-column justify-content-between h-100" href="topics-detail">
+                                                    <a class="d-flex flex-column justify-content-between h-100">
                                                         <div class="d-flex">
                                                             <div>
                                                                 <h5 class="mb-2">Baugesuche</h5>
@@ -415,7 +415,7 @@
     
                                             <div class="col-lg-4 col-md-6 col-12">
                                                 <div class="custom-block bg-white shadow-lg">
-                                                    <a class="d-flex flex-column justify-content-between h-100" href="topics-detail">
+                                                    <a class="d-flex flex-column justify-content-between h-100">
                                                         <div class="d-flex">
                                                             <div>
                                                                 <h5 class="mb-2">Planung von A-Z</h5>
@@ -435,39 +435,8 @@
                                     </div>
                                 </div>
 
-                                <div class="tab-pane fade" id="finance-tab-pane" role="tabpanel" aria-labelledby="finance-tab" tabindex="0">   <div class="row">
-                                        <div class="col-lg-6 col-md-6 col-12 mb-4 mb-lg-0">
-                                            <div class="custom-block bg-white shadow-lg">
-                                                <a href="topics-detail">
-                                                    <div class="d-flex">
-                                               
-                                       
-                                                    <div class="social-share d-flex">
-                                                        <p class="text-white me-4">Teilen:</p>
-
-                                                        <ul class="social-icon">
-                                                            <li class="social-icon-item">
-                                                                <a href="#" class="social-icon-link bi-twitter"></a>
-                                                            </li>
-
-                                                            <li class="social-icon-item">
-                                                                <a href="#" class="social-icon-link bi-facebook"></a>
-                                                            </li>
-
-                                                            <li class="social-icon-item">
-                                                                <a href="#" class="social-icon-link bi-pinterest"></a>
-                                                            </li>
-                                                        </ul>
-
-                                                        <a href="#" class="custom-icon bi-bookmark ms-auto"></a>
-                                                    </div>
-
-                                                    <div class="section-overlay"></div>
-                                                </div>
-                                            </div>
-                                        </div>
-                                    </div>
-                                </div>
+                                
+                                
 
                                 <div class="tab-pane fade" id="music-tab-pane" role="tabpanel" aria-labelledby="music-tab" tabindex="0">
                                     <div class="row">
@@ -632,9 +601,9 @@
     <!-- prej qitu -->
     <div id="kontakt1" class="pg-footer">
      <footer class="footer">
-        <svg class="footer-wave-svg" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1200 100" preserveAspectRatio="none">
+        <!-- <svg class="footer-wave-svg" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1200 100" preserveAspectRatio="none">
             <path class="footer-wave-path" d="M851.8,100c125,0,288.3-45,348.2-64V0H0v44c3.7-1,7.3-1.9,11-2.9C80.7,22,151.7,10.8,223.5,6.3C276.7,2.9,330,4,383,9.8 c52.2,5.7,103.3,16.2,153.4,32.8C623.9,71.3,726.8,100,851.8,100z"></path>
-        </svg>
+        </svg> -->
         <div class="footer-content">
             <div class="footer-content-column">
             <div class="footer-logo">
